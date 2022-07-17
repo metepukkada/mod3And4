@@ -1,0 +1,1 @@
+# Döngüler Kullanılarak Yazılan Sayıya Kadar Olan Ve Aynı Zamanda 3 ve 4'ün Ortak Böleni Olan Sayıların Ortalamasını Bulan Program.
